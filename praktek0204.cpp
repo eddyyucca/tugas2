@@ -14,5 +14,8 @@ int main(){
 	int BPS=LR*20;	
 	cout<<"biyaya pasang	(Rp)	:"<<BPS<<endl;
 	double TB=BPR+BPS;
+	cout<<"total biyaya (Rp)	:	"<<TB<<endl;
+	cout<<"_____________________________________________________________________";
+	getch();
 
 }
