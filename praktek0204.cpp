@@ -12,5 +12,7 @@ int main(){
 	double BPR=JP*500;
 	cout<<"biyaya parket	(Rp)	:"<<BPR<<endl;
 	int BPS=LR*20;	
+	cout<<"biyaya pasang	(Rp)	:"<<BPS<<edl;
+	double TB=BPR+BPS;
 
 }
