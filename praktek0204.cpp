@@ -6,4 +6,5 @@ int main(){
 	int LR=42;
 	cout<<"luas rumah	:	"<<LR<<"	m2	"<<endl;
 	double LP=1.87596;
+	cout<<"luas 1 box parket	:	"<<LP<<"	m2	"<<endl;
 }
