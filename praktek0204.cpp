@@ -9,5 +9,8 @@ int main(){
 	cout<<"luas 1 box parket	:	"<<LP<<"	m2	"<<endl;
 	double JP=LR/LP;
 	cout<<"jumlah box parkat	:	"<<JP<<endl;
+	double BPR=JP*500;
+	cout<<"biyaya parket	(Rp)	:"<<BPR<<endl;
+	int BPS=LR*20;	
 
 }
